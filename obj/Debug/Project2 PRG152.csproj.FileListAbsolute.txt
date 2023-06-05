@@ -1,0 +1,7 @@
+C:\Users\Yolo09\Documents\PRG1522021\Project2 PRG152\bin\Debug\Project2 PRG152.exe.config
+C:\Users\Yolo09\Documents\PRG1522021\Project2 PRG152\bin\Debug\Project2 PRG152.exe
+C:\Users\Yolo09\Documents\PRG1522021\Project2 PRG152\bin\Debug\Project2 PRG152.pdb
+C:\Users\Yolo09\Documents\PRG1522021\Project2 PRG152\obj\Debug\Project2 PRG152.csproj.AssemblyReference.cache
+C:\Users\Yolo09\Documents\PRG1522021\Project2 PRG152\obj\Debug\Project2 PRG152.csproj.CoreCompileInputs.cache
+C:\Users\Yolo09\Documents\PRG1522021\Project2 PRG152\obj\Debug\Project2 PRG152.exe
+C:\Users\Yolo09\Documents\PRG1522021\Project2 PRG152\obj\Debug\Project2 PRG152.pdb
